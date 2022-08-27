@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main ();
+int main ()
 {
     char a[100];
     int b;
@@ -15,7 +15,7 @@ int main ();
         printf("withdraw Done");
     }
     else{
-        printf("Insufficent Balance")
+        printf("Insufficent Balance");
     }
     return 0;
 
